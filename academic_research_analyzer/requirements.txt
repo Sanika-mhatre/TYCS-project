@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+pandas
+scikit-learn
+joblib
+matplotlib
+plotly
+numpy
+language-tool-python
+requests
